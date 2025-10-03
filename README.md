@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Samir-Idris, a senior software engineer with ~15 years of experience, Microsoft/Oracle/Mobile/Web/Cloud developer, MScIT.
-- 👀 I’m interested in all kinds of software development and technology consultancy.
+- 👋 Hi, I’m @Samir-Idris, a senior software engineer with ~15 years of experience in Microsoft, Oracle, Mobile, Web, Cloud development techs, MScIT.
+- 👀 I’m interested in all kinds of software development and technology consultation.
 - 🌱 I’m currently learning AI/ML.
 - 💞️ I’m looking to collaborate on ePayment and Fintech projects.
 - 👀 Interested in open-source, web and mobile development, plus AI and automation
